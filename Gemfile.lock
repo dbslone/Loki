@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    eventmachine (1.0.3)
+    json (1.8.1)
+    net-http-persistent (2.9.4)
+    pubnub (3.5.8)
+      eventmachine
+      json
+      net-http-persistent
+    thor (0.19.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pubnub
+  thor
